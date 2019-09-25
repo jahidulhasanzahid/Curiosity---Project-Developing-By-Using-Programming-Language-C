@@ -1,0 +1,9 @@
+
+					    Your Choose Option 5,Where all of the Information are Preserved about Barishal City
+				_________________________________________________________________________________________________________________
+				1.History of Barishal city.					2.Road & River Road information of Barishal City.
+				3.Historical Informatio of Barishal City.			4.Hospital Information of Barishal City.
+				5.Bus station information of Barishal city.			6.Police Station of Barishal City.
+				7.Educational information of Barishal city.
+				_________________________________________________________________________________________________________________
+				Select your option which is your Curiosity: 

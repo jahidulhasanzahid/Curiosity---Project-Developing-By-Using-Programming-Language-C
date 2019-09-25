@@ -1,0 +1,9 @@
+
+								Your Choose is Option 2,which is Information of Dhaka
+					___________________________________________________________________________________________________
+					1.History of Dhaka city						2.Road information of Dhaka city
+					3.Bus & Train station information of Dhaka city			4.Hospital information of Dhaka city
+					5.Educational information of Dhaka city				6.Historical Place of Dhaka
+					7.Police And Fire Information of Dhaka
+					___________________________________________________________________________________________________
+					Select your option which is your Curiosity:

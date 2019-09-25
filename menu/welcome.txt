@@ -1,0 +1,9 @@
+									
+										Main Menu
+			 _____________________________________________________________________________________________________________________
+						1  Information of Bangladesh			3  Information of Rajshahi
+						2  Information of Dhaka				4  Information of Chittagong
+						5  Information of Barisal			7  Information of Khulna
+						6  Information of Sylhet			8  Exit
+			______________________________________________________________________________________________________________________
+			Enter Your Choose:

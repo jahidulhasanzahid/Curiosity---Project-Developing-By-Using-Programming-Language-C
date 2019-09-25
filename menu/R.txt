@@ -1,0 +1,9 @@
+
+							Your Choose is Option 3,which is Information of Rajshahi
+				______________________________________________________________________________________________________
+				1.History of the Rajshahi city					2.Road information Rajshahi city
+				3.Hospital information Rajshahi city				4.Bus & Train Information Rajshahi city
+				5.Historical place of Rajshahi Rajshahi city			6.Police And Fire Information of Rajshahi
+				7.Educational information of Rajshahi city
+				______________________________________________________________________________________________________
+				Select your option which is your Curiosity:

@@ -1,0 +1,78 @@
+								DHAKA CITY BUS SERVICE ROUTES
+							_____________________________________________
+	AKIK PORIBOHON:
+		Route: Gabtoli ? Mirpur 1 ? Mirpur 10 ? Kalshi ? Jamuna Future Park ? Natun Bazar, ? Badda
+	TRUST LINE:
+		Route: Mirpur 10 ? Cantonment ? Banani ? Notun Bazar
+	TETULIA PORIBPHON:
+		Route: Shiya Masjid ? Shyamoli ? Agargaon ? Mirpur 10 ? Kalshi ? Bisshoroad ? Airport ? Uttara ? Abdullahpur
+	JABALE NOOR PORIBOHON, OVIJAT PORIBOHON:
+		Route: Agargaon ? Mirpur 10 ? Kalshi ? Bisshoroad ? Airport ? Uttara ? Abdullahpur
+	ALIF PORIBOHON, ROIS PORIBOHON
+		Route: Mirpur Sony Cinema Hall ? Mirpur 10 ? Kazipara ? Shewrapara ? Mohakhali ? Gulshan 1 ? Badda ? Rampura ? Bonoshri
+	HIMACHOL PORIBOHON:
+		Route: Mirpur Sony Cinema Hall ? Mirpur 10 ? Kazipara ? Shewrapara ? Mohakhali ? Gulshan 1 ? Badda ? Rampura ? Khilgaon Khidma Hospital
+	PROJAPOTI PORIBOHON, NEW PALLABI EXPRESS, KONOK PORIBOHON:
+		Route: Gabtoli ? Mirpur 1 ? Mirpur 10 ? Kalshi ? Bisshoroad ? Airport ? Uttara ? Abdullahpur
+	BOSUMOTI PORIBOHON, BRTC
+		Route: Gabtoli ? Mirpur 1 ? Mirpur 10 ? Kalshi ? Bisshoroad ? Airport ? Uttara ? Abdullahpur ? Tongi ? Gazipur
+	ROBROB PORIBOHON:
+		Route: Gabtoli ? Mirpur 1 ? Mirpur 10 ? Kalshi ? Banani ? Gulshan 2 ? Gulshan 1 ? Badda Link Road
+	JABALE NOOR PORIBOHON 2
+		Route: Gabtoli ? Mirpur 1 ? Mirpur 10 ? Kalshi ? Kuril Flyover ? Natun Bazar
+	BRTC:
+		Route: Gabtoli ? Mirpur 1 ? Mirpur 10 ? Kazipara ? Shewrapara ? Mohakhali ? Kakoli ? Banani ? Gulshan 2 ? Natun Bazar ? Badda ? Rampura
+	EVEREST PORIBOHON:
+		Route: Roopnagar Abasik ? Mirpur 2 ? Mirpur 1 ? Khamarbari ? Farmgate ? Gulistan ? Keraniganj
+	MIRPUR MISSION PORIBOHON LIMITED:
+		Route: Chiriyakhana ? Mirpur 1 ? Khamarbari ? Farmgate ? Press Club ? Motijhil
+	ITIHAS PORIBOHON:
+		Route: Mirpur 10 ? Mirpur 2 ? Mirpur 1 ? Gabtoli ? Savar ? Nobinogor ? Chondra
+	BIHONGO PORIBOHON:
+		Route: Mirpur 12 ? Mirpur 11 ? Mirpur 10 ? Kazipara ? Shewrapara ? Mohakhali ? Gushan 1 ? Badda ? Natun Bazar
+	ITIHAS PORIBOHON:
+		Route: Mirpur 10 ? Mirpur 2 ? Mirpur 1 ? Gabtoli ? Savar ? Nobinogor ? Chondra
+	BIHONGO PORIBOHON:
+		Route: Mirpur 12 ? Mirpur 11 ? Mirpur 10 ? Kazipara ? Shewrapara ? Mohakhali ? Gushan 1 ? Badda ? Natun Bazar
+	DHAKA METRO SERVICE:
+		Doute: Mirpur 1 ? Kolyanpur ? Shyamoli ? Asadgate ? Shukrabad ? Kolabagan ? Science Lab ? New Market ? Nilkhet ? Azimpur
+	ASHIRBAD PORIBOHON, BIHONGO PORIBOHON:
+		Route: Roopnagar Abasik ? Mirpur 2 ? Mirpur 1 ?Kolyanpur ?Shyamoli ?Asadgate ?Shukrabad ?Kolabagan ?Science Lab ?New Market ? Nilkhet ? Azimpur
+	NEW VISION: 
+		Route: Chiriyakhana ? Mirpur 1 ? Khamarbari ? Farmgate ? Press Club ? Motijhil
+	DISHARI PORIBOHON: 
+		Route: Chiriyakhana ? Mirpur 1 ? Gulistan ? Keraniganj ? Babubazar Bridge
+	TRANS SILVA LIMITED:
+		Route: Mirpur 1 ? Technical ? Kolyanpur ? Asadgate ? Kolabagan ? Science Lab ? Shahbag ? Press Club ? Gulistan ? Motijhil ? Jatrabari
+	BIKOLPO SERVICE 1/E:
+		Route: Mirpur 14 ? Mirpur 1 ?Kolabagan?Science Lab?New Market ?Nilkhet ?Azimpur ? Press Club ?Gulistan ? Tikatuli ? Jatrabari
+	ALIF (BENGAL) PORIBOHON:
+		Route: Mirpur 10 ? Mirpur 1 ? Mazar Road ? Beri Badh ? Ashuliya ? Fantasy Kingdom ? Nondon Park
+	POLLOBI LOCAL SERVICE:
+		Route: Asadgate ? Shyamoli ? Kolyanpur ? Technical ? Mirpur 1 ? Mirpur 2 ? Mirpur 6 ? Cholontika Mor ? Mirpur 7 ? Mirpur 11 ? Mirpur 12
+	BRIHOTTOR MIRPUR, TITAS PORIBOHON:
+		Route: Chiriyakhana, ? Mirpur 1 ? Gabtoli ? Savar ? Nobinogor ? Chondra
+	ETC PORIBOHON:
+		Route: Kalshi ? Mirpur Sare 11 ? Mirpur 10 ? Kazipara ? Shewrapara ? IDB ? Khamarbari ? Farmgate ? Karwanbazar ? Shahbag ? Gulistan ? Sadarghat
+	SHOKOLPO PORIBOHON:
+		Route: Chiriyakhana ? Mirpur 1 ? Mirpur 10 ? Agargaon ? Bijoy Sarani ? Farmgate ? Bangla Motor ? Mogbazar ? Malibag ? Komlapur
+	NOBOKOLI PORIBOHON:
+		Route: Mirpur 1 ? Kolyanpur ? Shyamoli ? Agargaon ? Notun Rasta ? Mohakhali Flyover ? Banani ? Gulshan 2 ? Notun Bazar
+	BOISHAKHI PORIBOHON: 
+		Route: Savar ? Gabtoli ? Kolyanpur ? Shyamoli ? Agargaon ? Notun Rasta ? Mohakhali ? Gulshan 1 ? Badda Link Road ? Notun Bazar
+	DESH BANGLA PORIBOHON, RUPKOTHA PORIBOHON:
+		Route: Gabtoli ? Abdullahpur
+	KONOK PORIBOHON:
+		Route: Mirpur 12 ? Mirpur 10 ? Kakoli ? Airport ? Uttara ? Abdullahpur
+	PROVATI BONOSHRI PORIBOHON LIMITED:
+		Route: Gulistan ? Polton ? Malibag ? Mogbazar ? Mohakhali ? Bonani ? Airport ? Uttara ? Abdullahpur ? Tongi ? Gazipur ? Kaliyakoir
+	6 NUMBER MOTIJHIL BANANI TRANSPORT LIMITED (LOCAL):
+		Route 1: Motijhil ? Gulistan ? Polton ? Malibag ? Mogbazar ? Karwanbazar ? Farmgate ?Bijoy Sarani ? Mohakhali ? Gulshan 1 ? Gulshan 2 ? Notun Bazar
+	4 NUMBER ALIKE TRANSPORT & BRTC ARTICULATED (WI-FI BUS):
+		Route: Balughat ? Cantonment ? Bijoy Sarani ? Farmgate ? Banglamotor ? Shahbag ? Polton ? Gulistan ? Motijhil
+	3 NUMBER AIRPORT – BANGABANDHU AVENUE PORIBOHON (LOCAL):
+		Route: Bongo Bazar ? High Court ? Shahbag ? Farmgate ? Mohakhali ? Banani ? Bisso Road ? Airport ? Uttara ? Abdullahpur
+	9 NUMBER BUS:
+		Route: College Gate ? Shyamoli ? Technical ? Mirpur 1 ? Mirpur 12
+	TORONGO BUS COMPANY, BRTC:
+		Route: Mohammadpur ? Asadgate ? Farmgate ? Mohakhali ? Titumir College ? Gulshan 1 ? Badda ? Notun Bazar

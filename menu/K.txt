@@ -1,0 +1,10 @@
+
+					       Your Choose Option 7,Where all of the Information are Preserved about Khulna City
+				_________________________________________________________________________________________________________________
+				1.History information of Khulna city.					2.Historical place of Khulna city.
+				3.Bus & Train Station information of Khulna city.			4.Police Station information of Khulna city.
+				5.Hospital Information of Khulna city.					6.Educational information of Khulna city.
+				7.Police and Fire Information of Sylhet city.
+
+				_________________________________________________________________________________________________________________
+				Select your option which is your Curiosity: 

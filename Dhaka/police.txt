@@ -1,0 +1,22 @@
+		Police Station information Of Dhaka City						  Fire Service Station Information Of Dhaka City
+	___________________________________________________________				_________________________________________________________________
+	1.West Uttara Police Station		Mobile:01716-665082				1.Fire Service & Civil Defence, Mohamadpur	Mobile:02-9112078	
+	2.New Market Thana			Mobile:02-8631942				2.Kurmitola Fire Station			Mobile:02-9713399
+	3.Sutrapur Police Station		Mobile:02-7116233				3.Palashi Barrack Fire Station			Mobile:02-8628688
+	4.Badda Police Station			Mobile:01713-373173				4.Postogola Fire Station			Mobile:
+	5.Dhaka MetropolitanPolice Headquarters Mobile:02-8614300				5.Lalbagh Fire Station				Mobile:02-8619981
+	6.Hazaribag Thana			Mobile:02-9669900				6.Tejgaon Fire Station				Mobile:01730-002226
+	7.Vatara Police Station			Mobile:01713-373173				7.Dhamrai Fire Station				Mobile:01742-302850
+	8.Kafrul Police Station			Mobile:02-9871771				8.Khilgaon Fire Station				Mobile:02-7218329
+	9.Ramna Model Police Station		Mobile:02-9350468				9.Bangladesh Fire Service and Civil Defense	Mobile:02-9555555
+	10.Demra Police Station			Mobile:						10.Fire Service and Civil Defense Training Complex
+	11.Dhanmondi Model Thana		Mobile:02-8631941				11.Baridhara Fire Station			Mobile:02-8827397
+	12.Sher-E-Bangla Nagar Police Station	Mobile:						12.Uttara Fire Station
+	13.Dhaka Railway Police Station		Mobile:01750-078697
+	14.Tejgaon Police Station		Mobile:
+	15:Mohammadpur Police Station		Mobile:01713-373182
+	16:Assistant Commissioner's Office	Mobile:
+	17:Banani Thana				Mobile:01769-058053
+	18:Jatrabari Thana			Mobile:01191-001100
+	19:Kalabagan Thana			Mobile:01713-398339
+	20:Wari Thana				Mobile:02-9553377

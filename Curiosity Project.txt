@@ -1,0 +1,3 @@
+Curiosity is a project like application where you can find out all of our country Information.
+Curiosity Developing by Programming language C and For store data or information dosen't use any kind of database,Use only .txt file for storing data.
+Curiosity Developed by Jahidulhasanzahid Student of Daffodil Internation University Department of SWE.

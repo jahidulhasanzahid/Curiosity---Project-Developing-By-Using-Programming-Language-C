@@ -1,0 +1,13 @@
+									Hospital Information Of Dhaka City
+								___________________________________________________
+							1.Kurmitola General Hospital			Mobile:01769-010200
+							2.Square Hospitals Limited			Mobile:01713-377773
+							3.City Hospital Ltd				Mobile:02-8143312	
+							4.Apollo Hospitals Dhaka			Mobile:02-55037242
+							5.Dhaka Medical College and Hospital		Mobile:01911-032927
+							6.United Hospital				Mobile:02-8836000
+							7.Dhaka Shishu Hospital				Mobile:02-8116061
+							8.Bangladesh Medical College Hospital		Mobile:02-8115843
+							9.Shahabuddin Medical College Hospital		Mobile:02-9863387
+`							10.Labaid					Mobile:
+							11.BIRDEM					Mobile:02-8616644
